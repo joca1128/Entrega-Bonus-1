@@ -1,0 +1,15 @@
+{
+  "name": "reslutado_en_navegador_opcional",
+  "version": "1.0.0",
+  "description": "Bonus para msotrar resultados de la tarea 1 en navegador",
+  "main": "principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Castillo joecastillogo@unal.edu.co",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yargs": "^13.2.4"
+  }
+}
